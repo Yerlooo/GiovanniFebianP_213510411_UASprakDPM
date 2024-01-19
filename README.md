@@ -1,1 +1,5 @@
-# GiovanniFebianP_213510411_UASprakDPM
+# Snack Expo (MERN)
+
+FrontEnd :
+https://snack.expo.dev/@alriawi/6?platform=web
+ 
