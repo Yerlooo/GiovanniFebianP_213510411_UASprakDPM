@@ -1,5 +1,4 @@
 # Snack Expo (MERN)
 
 FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
- 
+https://snack.expo.dev/@giokss/giovannifebianp_213510411_uasdpm

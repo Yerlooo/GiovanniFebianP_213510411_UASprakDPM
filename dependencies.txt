@@ -7,4 +7,4 @@ npm i cors
 npm i bcrypt
 npm i jsonwebtoken
 
-mongodb+srv://eliteisan:<password>@dpm2023.arvk2ot.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://giovannifebianp:admin123@cluster0.elmfzmn.mongodb.net/?retryWrites=true&w=majority
